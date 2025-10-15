@@ -1,6 +1,6 @@
 {
   "name": "@matsbos19/csgo-gsi-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package for Counter-Strike: Global Offensive Game State Integration types",
   "homepage": "https://github.com/MatsBos/csgo-gsi-types#readme",
   "keywords": [
