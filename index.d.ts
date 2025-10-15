@@ -1,4 +1,4 @@
-declare module "csgo-gsi-types" {
+declare module "@matsbos19/csgo-gsi-types" {
   export import Provider = __GSICSGO.Provider;
   export import Map = __GSICSGO.Map;
   export import Auth = __GSICSGO.Auth;
