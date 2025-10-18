@@ -159,6 +159,7 @@ declare namespace __GSICSGO {
   }
 
   export interface PlayerList {
+    steamid?: string;
     clan?: string;
     name: string;
     observer_slot: ObservatorSlotType;
